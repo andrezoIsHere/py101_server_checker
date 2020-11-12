@@ -38,3 +38,13 @@ ____
 c.setList(['https://google.kz', 'https://google.ru'])
 
 ```
+
+____
+
+Самое главное, чтобы запустить обработчик, нужно воспользоваться командой startHandle()
+
+```Python
+
+c.startHandle()
+
+```
