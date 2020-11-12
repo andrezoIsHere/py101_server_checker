@@ -1,4 +1,3 @@
-
 class Checker:
 
     _address_list = []
@@ -99,3 +98,4 @@ if __name__ == '__main__':
     c.getList() # Will return the full list of addresses
 
     c.startHandle() # Will start handling all addresses
+    
